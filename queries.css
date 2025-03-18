@@ -96,4 +96,10 @@
 
     padding: 0;
   }
+
+  .testimonial-card {
+    /*
+    max-width: 35rem; */
+    padding: 1.4rem;
+  }
 }
